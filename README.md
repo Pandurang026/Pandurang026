@@ -1,4 +1,4 @@
-![logo](https://www.vecteezy.com/photo/35161995-ai-generated-abstract-glowing-forex-chart-on-computer-screen-3d-rendering-a-conceptual-illustration-of-medical-informatics-and-health-care-analytics-in-a-close-up-shot-ai-generated)
+
 <h1 align="center">Hi 👋, I'm Balurkar Pandurang</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandurang026&label=Profile%20views&color=0e75b6&style=flat" alt="pandurang026" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pandurang026" alt="pandurang026" /></a> </p>
+
 
 - 🌱 I’m currently learning **Tableau**
 
