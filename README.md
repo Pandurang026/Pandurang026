@@ -1,5 +1,5 @@
 
-
+![Black   White Modern Minimalist Data Analyst LinkedIn Banner (1)](https://github.com/user-attachments/assets/5962873f-7062-4026-83b3-3698728e275f)
 
 <h1 align="center">Hi 👋, I'm Balurkar Pandurang</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
